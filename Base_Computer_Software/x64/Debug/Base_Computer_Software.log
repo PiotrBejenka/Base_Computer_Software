@@ -1,0 +1,51 @@
+﻿  Analytical_Software.cpp
+c:\users\user8\desktop\projekty\base_computer_software\base_computer_software\analytical_software.h(265): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\users\user8\desktop\projekty\base_computer_software\base_computer_software\analytical_software.h(279): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\user8\desktop\projekty\base_computer_software\base_computer_software\analytical_software.h(280): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Main_Form.cpp
+c:\users\user8\desktop\projekty\base_computer_software\base_computer_software\analytical_software.h(265): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\users\user8\desktop\projekty\base_computer_software\base_computer_software\analytical_software.h(279): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\user8\desktop\projekty\base_computer_software\base_computer_software\analytical_software.h(280): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+d:\opencv\build\include\opencv2\core\cuda.inl.hpp(105): warning C4793: 'cv::cuda::GpuMat::GpuMat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\opencv\build\include\opencv2\core\cuda.inl.hpp(401): warning C4793: 'cv::cuda::HostMem::HostMem': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\opencv\build\include\opencv2\core\mat.inl.hpp(542): warning C4793: 'cv::Mat::Mat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\opencv\build\include\opencv2\core\fast_math.hpp(315): warning C4793: '`anonymous namespace'::cvRound': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\opencv\build\include\opencv2\core\fast_math.hpp(316): warning C4793: '`anonymous namespace'::cvRound': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\opencv\build\include\opencv2\core\mat.inl.hpp(862): warning C4793: 'cv::Mat::release': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\opencv\build\include\opencv2\core\mat.inl.hpp(2201): warning C4793: 'cv::SparseMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\opencv\build\include\opencv2\core\mat.inl.hpp(3804): warning C4793: 'cv::UMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\opencv\build\include\opencv2\core\cuda.inl.hpp(105): warning C4793: 'cv::cuda::GpuMat::GpuMat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\opencv\build\include\opencv2\core\cuda.inl.hpp(401): warning C4793: 'cv::cuda::HostMem::HostMem': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\opencv\build\include\opencv2\core\mat.inl.hpp(542): warning C4793: 'cv::Mat::Mat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\opencv\build\include\opencv2\core\fast_math.hpp(315): warning C4793: '`anonymous namespace'::cvRound': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\opencv\build\include\opencv2\core\fast_math.hpp(316): warning C4793: '`anonymous namespace'::cvRound': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\opencv\build\include\opencv2\core\mat.inl.hpp(862): warning C4793: 'cv::Mat::release': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\opencv\build\include\opencv2\core\mat.inl.hpp(2201): warning C4793: 'cv::SparseMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+d:\opencv\build\include\opencv2\core\mat.inl.hpp(3804): warning C4793: 'cv::UMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+  Analytical_Software.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Base_Computer_Software.vcxproj -> C:\Users\User8\Desktop\PROJEKTY\Base_Computer_Software\x64\Debug\Base_Computer_Software.exe
